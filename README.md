@@ -20,6 +20,6 @@
 - [ ] Celebrate when everything is complete :tada:
 
    
-> “I think it is possible for ordinary people to choose to be extraordinary.”
+> “I think it is possible for ordinary people to choose to be extraordinary.” - Elon Musk
 
 ![Elon Musk Thumbs Up](https://media.vanityfair.com/photos/60858efd879ac8cf431211fb/1:1/w_3571,h_3571,c_limit/1229892421)
