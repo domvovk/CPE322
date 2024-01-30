@@ -3,6 +3,8 @@
 ~____________________________________________________________________________~
 ### I will be uploading various content related to the CPE 322 course
 
+> [!WARNING]
+> The content displayed here is extremely confidential.
 
 ### Some hobbies I enjoy are:
 - Snowboarding
