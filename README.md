@@ -1,7 +1,7 @@
 # CPE322 README By Dominick Vovk
 ## **_Greetings, welcome to my CPE322 Repository_**
-~                                                                         ~
-### =I will be uploading various content related to the CPE 322 course=
+~____________________________________________________________________________~
+### ==I will be uploading various content related to the CPE 322 course==
 
 > “I think it is possible for ordinary people to choose to be extraordinary.”
 
