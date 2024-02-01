@@ -6,7 +6,7 @@
 > [!WARNING]
 > The content displayed here is extremely confidential. jk 😆
 
-This ReadMe was built using [Markdown]([https://pages.github.com/](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)).
+This ReadMe was built using [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Some hobbies I enjoy are:
 - Snowboarding
