@@ -1,6 +1,6 @@
-#Lab 7
+# Lab 7
 
-###
+### In this lab I was able to read data off of my cpu and read it in a chart on ThingSpeak. I was also able to upload hardware data through the terminal onto google sheets directly. Please view the screenshots below.
 
 ![image](https://github.com/domvovk/CPE322/assets/123049815/57197109-43db-480b-9a96-7227c8e2dde0)
 
