@@ -8,7 +8,10 @@
 
 ![image](https://github.com/domvovk/CPE322/assets/123049815/94ccb952-c26c-4d41-89f1-24462f1b420f)
 
-![image](https://github.com/domvovk/CPE322/assets/123049815/82711188-8dc6-45d6-b6fe-aa43cca91c50)
+![image](https://github.com/domvovk/CPE322/assets/123049815/46287b9f-7fab-4a59-b8c8-5327f3cb86eb)
 
-![image](https://github.com/domvovk/CPE322/assets/123049815/e9b9a9fe-66c3-4217-9c21-48bcb55342bc)
+![image](https://github.com/domvovk/CPE322/assets/123049815/aedede8e-74a8-4dc6-a8c7-eeb9db1c6dbb)
 
+![image](https://github.com/domvovk/CPE322/assets/123049815/6c5d84cd-cefb-43dd-b4a8-16ab8b6a68a1)
+
+![image](https://github.com/domvovk/CPE322/assets/123049815/082141bb-7420-4531-8a65-bc153080cf01)
